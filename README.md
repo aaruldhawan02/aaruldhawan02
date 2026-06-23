@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaruldhawan@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaruldhawan02)
 
-*MCS @ UIUC · Networks & Distributed Systems · Graduating May 2026*
+*MCS @ UIUC · Networks & Distributed Systems · Incoming SDE @ AWS*
 
 </div>
 
@@ -16,7 +16,7 @@
 
 I build high-performance systems at the intersection of distributed infrastructure, storage, and applied ML. I care about throughput, latency, and systems that hold up under real load.
 
-**Currently:** SDE Intern @ AWS S3 Express
+**Currently:** Incoming SDE @ AWS S3 Express · Starting Jan 2027: MS Financial Mathematics @ Johns Hopkins
 
 ---
 
@@ -64,22 +64,40 @@ I build high-performance systems at the intersection of distributed infrastructu
 <table>
   <tr>
     <td align="center" width="50%">
+      <strong><a href="https://github.com/aaruldhawan02/RDMA-Distributed-KV-Store">CS598 (Storage Systems): RDMA Distributed KV Store</a></strong><br/>
+      <sub>Distributed Systems · Spring 2026</sub><br/><br/>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RDMA%2FRoCE-555555?style=flat-square"/>
+      <br/><br/>
+      Distributed KV store using one-sided RDMA over RoCE targeting sub-millisecond latencies. Reed-Solomon erasure coding and SWIM failure detection.
+    </td>
+    <td align="center" width="50%">
+      <strong><a href="https://github.com/ktrikha2/sackv">CS598 (GenAI Systems): Chunk-Level KV Cache Eviction</a></strong><br/>
+      <sub>LLM Systems · Spring 2026</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/vLLM-EE4C2C?style=flat-square"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <br/><br/>
+      Fork of vLLM v0.18.0 with semantic chunk-level KV cache eviction for RAG workloads. Eviction scores combine retrieval relevance, attention, and recency.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <strong><a href="https://github.com/PillaiFanClub/Ladidadidaaaa">Arcade Karaoke</a></strong><br/>
-      <sub>Brown Hackathon 2025 · AWS Award Winner</sub><br/><br/>
+      <sub>Hack@Brown 2025 · AWS Award Winner</sub><br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
       <br/><br/>
-      Multiplayer karaoke game with real-time pitch-based scoring using Librosa and WebSockets.
+      Multiplayer karaoke game with real-time pitch-based scoring using Librosa PYIN and WebSockets.
     </td>
     <td align="center" width="50%">
-      <strong><a href="https://github.com/aaruldhawan02/Custom-Calendar-LeMac">LeMAC</a></strong><br/>
-      <sub>Learning Management Assignment Collector</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+      <strong><a href="https://github.com/PillaiFanClub/Ladidadidaaaa">PayOff</a></strong><br/>
+      <sub>Hack@Brown 2026</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
       <br/><br/>
-      Aggregates Canvas and PrairieLearn assignments into a unified calendar view.
+      Peer-to-peer offline payment via Apple Bonjour — no WiFi required. ECDH handshake via Apple CryptoKit.
     </td>
   </tr>
 </table>
