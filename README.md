@@ -72,7 +72,7 @@ I build high-performance systems at the intersection of distributed infrastructu
       Distributed KV store using one-sided RDMA over RoCE targeting sub-millisecond latencies. Reed-Solomon erasure coding and SWIM failure detection.
     </td>
     <td align="center" width="50%">
-      <strong><a href="https://github.com/ktrikha2/sackv">CS598 (GenAI Systems): Chunk-Level KV Cache Eviction</a></strong><br/>
+      <strong><a href="https://github.com/aaruldhawan02/sackv">CS598 (GenAI Systems): Chunk-Level KV Cache Eviction</a></strong><br/>
       <sub>LLM Systems · Spring 2026</sub><br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/vLLM-EE4C2C?style=flat-square"/>
