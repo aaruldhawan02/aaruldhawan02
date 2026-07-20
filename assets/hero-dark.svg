@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Aarul Dhawan">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A0F1F"/>
+      <stop offset="1" stop-color="#121C38"/>
+    </linearGradient>
+    <linearGradient id="nameg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#AFC0E6"/>
+    </linearGradient>
+    <linearGradient id="ruleg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7DD3FC"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0.25"/>
+    </linearGradient>
+    <linearGradient id="topline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7DD3FC" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#7DD3FC" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.5" fill="#FFFFFF" opacity="0.08"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0.3" stop-color="#000000"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+    <mask id="dotmask"><rect width="1200" height="340" fill="url(#fade)"/></mask>
+    <clipPath id="round"><rect width="1200" height="340" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#dots)" mask="url(#dotmask)"/>
+    <rect x="0" y="0" width="1200" height="1" fill="url(#topline)"/>
+
+    <circle cx="975" cy="170" r="200" fill="url(#glow)"/>
+    <polygon points="975.0,50.0 1078.92,110.0 1078.92,230.0 975.0,290.0 871.08,230.0 871.08,110.0" fill="none" stroke="#7DD3FC" stroke-width="1" opacity="0.16"/>
+    <line x1="975.0" y1="50.0" x2="1078.92" y2="230.0" stroke="#7DD3FC" stroke-width="1" opacity="0.1"/>
+    <line x1="975.0" y1="290.0" x2="871.08" y2="110.0" stroke="#7DD3FC" stroke-width="1" opacity="0.1"/>
+    <line x1="975" y1="170" x2="975.0" y2="50.0" stroke="#7DD3FC" stroke-width="1" opacity="0.3"/>
+    <line x1="975" y1="170" x2="1078.92" y2="110.0" stroke="#7DD3FC" stroke-width="1" opacity="0.3"/>
+    <line x1="975" y1="170" x2="1078.92" y2="230.0" stroke="#7DD3FC" stroke-width="1" opacity="0.3"/>
+    <line x1="975" y1="170" x2="975.0" y2="290.0" stroke="#7DD3FC" stroke-width="1" opacity="0.3"/>
+    <line x1="975" y1="170" x2="871.08" y2="230.0" stroke="#7DD3FC" stroke-width="1" opacity="0.3"/>
+    <line x1="975" y1="170" x2="871.08" y2="110.0" stroke="#7DD3FC" stroke-width="1" opacity="0.3"/>
+    <circle cx="975.0" cy="50.0" r="11" fill="#7DD3FC" opacity="0.16"/>
+    <circle cx="975.0" cy="50.0" r="4.5" fill="#7DD3FC"/>
+    <circle cx="1078.92" cy="110.0" r="11" fill="#A78BFA" opacity="0.16"/>
+    <circle cx="1078.92" cy="110.0" r="4.5" fill="#A78BFA"/>
+    <circle cx="1078.92" cy="230.0" r="11" fill="#7DD3FC" opacity="0.16"/>
+    <circle cx="1078.92" cy="230.0" r="4.5" fill="#7DD3FC"/>
+    <circle cx="975.0" cy="290.0" r="11" fill="#7DD3FC" opacity="0.16"/>
+    <circle cx="975.0" cy="290.0" r="4.5" fill="#7DD3FC"/>
+    <circle cx="871.08" cy="230.0" r="11" fill="#A78BFA" opacity="0.16"/>
+    <circle cx="871.08" cy="230.0" r="4.5" fill="#A78BFA"/>
+    <circle cx="871.08" cy="110.0" r="11" fill="#7DD3FC" opacity="0.16"/>
+    <circle cx="871.08" cy="110.0" r="4.5" fill="#7DD3FC"/>
+    <circle r="3.2" fill="#7DD3FC" opacity="0"><animateMotion dur="2.4s" begin="0.0s" repeatCount="indefinite" path="M975,170 L975.0,50.0"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.72;1" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></circle>
+    <circle r="3.2" fill="#7DD3FC" opacity="0"><animateMotion dur="2.4s" begin="0.8s" repeatCount="indefinite" path="M975,170 L1078.92,230.0"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.72;1" dur="2.4s" begin="0.8s" repeatCount="indefinite"/></circle>
+    <circle r="3.2" fill="#7DD3FC" opacity="0"><animateMotion dur="2.4s" begin="1.6s" repeatCount="indefinite" path="M975,170 L871.08,230.0"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.72;1" dur="2.4s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="975" cy="170" r="15" fill="#7DD3FC" opacity="0.18"/>
+    <circle cx="975" cy="170" r="6.5" fill="#7DD3FC"/>
+    <circle cx="975" cy="170" r="9" fill="none" stroke="#7DD3FC" stroke-width="1.2"><animate attributeName="r" values="9;30" dur="2.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.5;0" dur="2.8s" repeatCount="indefinite"/></circle>
+
+    <text x="64" y="86" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="600"
+          letter-spacing="2.4" fill="#7DD3FC" opacity="0.9">MCS @ UIUC  &#183;  NETWORKS &amp; DISTRIBUTED SYSTEMS</text>
+
+    <text x="64" y="158" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="68" font-weight="700"
+          letter-spacing="-1.6" fill="url(#nameg)">Aarul Dhawan</text>
+
+    <rect x="64" y="178" width="104" height="2.5" rx="1.25" fill="url(#ruleg)"/>
+
+    <text x="64" y="214" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="400"
+          letter-spacing="0.2" fill="#8FA2C4">Systems &#183; Distributed Infrastructure &#183; Applied ML</text>
+
+    <g>
+      <rect x="64" y="236" width="296" height="34" rx="17"
+            fill="#FFFFFF" fill-opacity="0.05"
+            stroke="#FFFFFF" stroke-opacity="0.13"/>
+      <circle cx="86" cy="253" r="8" fill="#34D399" opacity="0.35">
+        <animate attributeName="r" values="4;10;4" dur="2.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.35;0;0.35" dur="2.2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="86" cy="253" r="4" fill="#34D399">
+        <animate attributeName="opacity" values="1;0.45;1" dur="2.2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="104" y="258" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" font-weight="500"
+            letter-spacing="0.2" fill="#CBD5E1">Incoming SDE @ AWS S3 Express</text>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="339" rx="17.5" fill="none"
+        stroke="#FFFFFF" stroke-opacity="0.09"/>
+</svg>
