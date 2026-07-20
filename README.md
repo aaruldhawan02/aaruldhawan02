@@ -8,109 +8,57 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aaruldhawan@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1F2328?style=flat-square&logo=github&logoColor=white)](https://github.com/aaruldhawan02)
 
-## About
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/about-light.svg" />
+  <img src="assets/about-dark.svg" alt="I build high-performance systems at the intersection of distributed infrastructure, storage, and applied ML. I care about throughput, latency, and systems that hold up under real load. Education: M.C.S. University of Illinois, Networks and Distributed Systems; M.S. Financial Mathematics, Johns Hopkins, from Jan 2027." width="100%" />
+</picture>
 
-I build high-performance systems at the intersection of distributed infrastructure, storage, and applied ML. I care about throughput, latency, and systems that hold up under real load.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/metrics-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/metrics-light.svg" />
+  <img src="assets/metrics-dark.svg" alt="400%+ throughput gain · 10ms p99 latency · $3.4M+ projected savings · 2.1x model robustness" width="100%" />
+</picture>
 
-**Currently** — Incoming SDE @ AWS S3 Express<br>
-**Jan 2027** — MS Financial Mathematics @ Johns Hopkins
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/div-tech-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/div-tech-light.svg" />
+  <img src="assets/div-tech-dark.svg" alt="Tech" width="100%" />
+</picture>
 
-## Tech
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tech-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/tech-light.svg" />
+  <img src="assets/tech-dark.svg" alt="Languages: Rust, C, C++, Java, C#, Python, JavaScript, Swift. Systems and Cloud: AWS, EKS, CloudWatch, SageMaker, GCP, Docker, Kubernetes. Frameworks and Data: React, PyTorch, vLLM, PostgreSQL, MySQL, Pinecone, Librosa." width="100%" />
+</picture>
 
-<table>
-  <tr>
-    <td width="200"><b>Languages</b></td>
-    <td width="680">
-      <img alt="Rust" src="https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white" />
-      <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-      <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white" />
-      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td width="200"><b>Systems &amp; Cloud</b></td>
-    <td width="680">
-      <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-      <img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-      <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="200"><b>Frameworks &amp; Data</b></td>
-    <td width="680">
-      <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/div-projects-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/div-projects-light.svg" />
+  <img src="assets/div-projects-dark.svg" alt="Featured Projects" width="100%" />
+</picture>
 
-## Featured Projects
+<a href="https://github.com/aaruldhawan02/RDMA-Distributed-KV-Store"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-rdma-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/proj-rdma-light.svg" /><img src="assets/proj-rdma-dark.svg" alt="RDMA Distributed KV Store — distributed KV store on one-sided RDMA over RoCE with Reed–Solomon erasure coding and SWIM failure detection" width="48.5%" /></picture></a> <a href="https://github.com/aaruldhawan02/sackv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-sackv-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/proj-sackv-light.svg" /><img src="assets/proj-sackv-dark.svg" alt="Chunk-Level KV Cache Eviction — fork of vLLM v0.18.0 with semantic chunk-level KV cache eviction for RAG workloads" width="48.5%" /></picture></a>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/aaruldhawan02/RDMA-Distributed-KV-Store"><b>RDMA Distributed KV Store</b></a><br>
-      <sub>CS598 Storage Systems · Spring 2026</sub>
-      <p>Distributed KV store using one-sided RDMA over RoCE targeting sub-millisecond latencies. Reed–Solomon erasure coding and SWIM failure detection.</p>
-      <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-      <img alt="RDMA/RoCE" src="https://img.shields.io/badge/RDMA%2FRoCE-475569?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/aaruldhawan02/sackv"><b>Chunk-Level KV Cache Eviction</b></a><br>
-      <sub>CS598 GenAI Systems · Spring 2026</sub>
-      <p>Fork of vLLM v0.18.0 with semantic chunk-level KV cache eviction for RAG workloads. Eviction scores combine retrieval relevance, attention, and recency.</p>
-      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img alt="vLLM" src="https://img.shields.io/badge/vLLM-EE4C2C?style=flat-square" />
-      <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/PillaiFanClub/Ladidadidaaaa"><b>Arcade Karaoke</b></a><br>
-      <sub>Hack@Brown 2025 · AWS Award Winner</sub>
-      <p>Multiplayer karaoke game with real-time pitch-based scoring using Librosa PYIN and WebSockets.</p>
-      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/PillaiFanClub/Ladidadidaaaa"><b>PayOff</b></a><br>
-      <sub>Hack@Brown 2026</sub>
-      <p>Peer-to-peer offline payment via Apple Bonjour — no WiFi required. ECDH handshake via Apple CryptoKit.</p>
-      <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
-      <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/PillaiFanClub/Ladidadidaaaa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-karaoke-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/proj-karaoke-light.svg" /><img src="assets/proj-karaoke-dark.svg" alt="Arcade Karaoke — multiplayer karaoke game with real-time pitch-based scoring using Librosa PYIN and WebSockets" width="48.5%" /></picture></a> <a href="https://github.com/PillaiFanClub/Ladidadidaaaa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-payoff-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/proj-payoff-light.svg" /><img src="assets/proj-payoff-dark.svg" alt="PayOff — peer-to-peer offline payment over Apple Bonjour with an ECDH handshake via CryptoKit" width="48.5%" /></picture></a>
 
-## Experience
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/div-experience-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/div-experience-light.svg" />
+  <img src="assets/div-experience-dark.svg" alt="Experience" width="100%" />
+</picture>
 
-**Amazon Web Services** — SDE Intern, S3 Express<br>
-<sub>Seattle, WA · May–Aug 2025</sub>
-- Re-architected a legacy Java load generator into a Rust system, improving throughput **400%+** with consistent **sub-10ms p99 latency**
-- Deployed on EKS with autoscaling across hundreds of pods; p50–p99.9 latency and TPS metrics published to CloudWatch
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/timeline-light.svg" />
+  <img src="assets/timeline-dark.svg" alt="Career timeline: TechSur Jun–Aug 2023, Disruption Lab Aug 2023–May 2024, Epic Systems May–Aug 2024, Epivara Sep 2024–Jan 2025, AWS S3 Express May–Aug 2025" width="100%" />
+</picture>
 
-**Epic Systems** — Software Developer Intern<br>
-<sub>Madison, WI · May–Aug 2024</sub>
-- Built a cross-platform AI assistant (C#, Python, React) for echocardiogram comparison — estimated to save **$3.4M+ annually**
-- Designed an LLM evaluation metric for patient summarization; presented to 200+ attendees
-
-**Disruption Lab** (Client: AMD) — Software Engineer<br>
-<sub>Champaign, IL · Aug 2023–May 2024</sub>
-- Improved model robustness **2.1x** in noisy environments via dynamic mixing and noise augmentation on AWS SageMaker
-
-**Epivara** — Software Engineer Intern<br>
-<sub>UIUC Research Park · Sept 2024–Jan 2025</sub>
-- Built an NLP-powered graph generation tool over SQL data for experimental data exploration
-
-**TechSur Solutions** — Software Developer Intern<br>
-<sub>Herndon, VA · Jun–Aug 2023</sub>
-- Built a document recommendation system using TF-IDF + Pinecone on GCP
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/roles-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/roles-light.svg" />
+  <img src="assets/roles-dark.svg" alt="Amazon Web Services, SDE Intern on S3 Express — Rust rewrite of a legacy Java load generator, 400%+ throughput at sub-10ms p99. Epic Systems, Software Developer Intern — AI assistant for echocardiogram comparison, projected $3.4M+ annual savings. Disruption Lab, Software Engineer for AMD — dynamic mixing and noise augmentation on SageMaker, 2.1x model robustness. Epivara, Software Engineer Intern — NLP-powered graph generation over SQL data. TechSur Solutions, Software Developer Intern — document recommendation system using TF-IDF and Pinecone on GCP." width="100%" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg" />

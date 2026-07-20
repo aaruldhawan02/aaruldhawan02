@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A0F1F"/><stop offset="1" stop-color="#121C38"/>
+    </linearGradient>
+    <linearGradient id="topline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7DD3FC"/><stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="accentV" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7DD3FC"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0.3"/></linearGradient>
+    <clipPath id="round"><rect width="1200" height="220" rx="16"/></clipPath>
+  </defs>
+  <g transform="translate(0 0)">
+  <g clip-path="url(#round)">
+    <rect width="1200" height="220" fill="url(#bg)"/>
+    <rect x="0" y="0" width="1200" height="1" fill="url(#topline)"/>
+    <rect x="34" y="52" width="3" height="126" rx="1.5" fill="url(#accentV)"/><text x="58" y="68" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" fill="#FFFFFF">I build high-performance systems at the intersection of</text><text x="58" y="102" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" fill="#FFFFFF">distributed infrastructure, storage, and applied ML.</text><text x="58" y="136" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" fill="#FFFFFF">I care about throughput, latency, and systems</text><text x="58" y="170" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" fill="#FFFFFF">that hold up under real load.</text><rect x="762" y="44" width="1" height="134" fill="#FFFFFF" fill-opacity="0.09"/><text x="800" y="64" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" font-weight="600" letter-spacing="2.4" fill="#7DD3FC" opacity="0.9">EDUCATION</text><text x="800" y="102" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#FFFFFF">M.C.S. — University of Illinois</text><text x="800" y="124" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#8FA2C4">Networks &amp; Distributed Systems</text><text x="800" y="158" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#FFFFFF">M.S. Financial Mathematics</text><text x="800" y="180" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#8FA2C4">Johns Hopkins &#183; from Jan 2027</text>
+  </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="219" rx="15.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.09"/>
+</svg>

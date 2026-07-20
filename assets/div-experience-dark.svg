@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="42" viewBox="0 0 1200 42" role="img">
+  <defs>
+    <linearGradient id="hair" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7DD3FC" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#7DD3FC" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <text x="2" y="27" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" font-weight="600"
+        letter-spacing="2.8" fill="#7DD3FC">EXPERIENCE</text>
+  <rect x="154" y="26" width="1046" height="1.5" fill="url(#hair)"/>
+</svg>
