@@ -4,20 +4,17 @@
   <img src="assets/hero-dark.svg" alt="Aarul Dhawan — Systems, Distributed Infrastructure, Applied ML" width="100%" />
 </picture>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarul-dhawan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aaruldhawan@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1F2328?style=flat-square&logo=github&logoColor=white)](https://github.com/aaruldhawan02)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/about-light.svg" />
-  <img src="assets/about-dark.svg" alt="I build high-performance systems at the intersection of distributed infrastructure, storage, and applied ML. I care about throughput, latency, and systems that hold up under real load. Education: M.C.S. University of Illinois, Networks and Distributed Systems; M.S. Financial Mathematics, Johns Hopkins, from Jan 2027." width="100%" />
+  <img src="assets/about-dark.svg" alt="Education: B.S. Computer Science and Statistics, University of Illinois. M.C.S. Computer Science, University of Illinois, Networks and Distributed Systems. M.S. Financial Mathematics, Johns Hopkins, from Jan 2027." width="100%" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/metrics-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/metrics-light.svg" />
-  <img src="assets/metrics-dark.svg" alt="400%+ throughput gain · 10ms p99 latency · $3.4M+ projected savings · 2.1x model robustness" width="100%" />
+  <img src="assets/metrics-dark.svg" alt="10+ languages known · 5 internships · $3.4M annual savings at Epic · 3 degrees pursued" width="100%" />
 </picture>
 
 <picture>
@@ -51,7 +48,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/timeline-light.svg" />
-  <img src="assets/timeline-dark.svg" alt="Career timeline: TechSur Jun–Aug 2023, Disruption Lab Aug 2023–May 2024, Epic Systems May–Aug 2024, Epivara Sep 2024–Jan 2025, AWS S3 Express May–Aug 2025" width="100%" />
+  <img src="assets/timeline-dark.svg" alt="Career timeline: TechSur Jun–Aug 2023, Disruption Lab Aug 2023–May 2024, Epic Systems May–Aug 2024, Epivara Sep 2024–Jan 2025, AWS S3 Express intern May–Aug 2025, AWS full-time SDE from Aug 2026" width="100%" />
 </picture>
 
 <picture>
